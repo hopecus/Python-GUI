@@ -30,10 +30,10 @@ clr.AddReference('IronPython.Wpf')
 2) Compile python code with IronPython to build stand-alone executable GUI Application
 
 ~~~~
-ipy.exe pyc.py /out:_application_name_ /main:_main_python_file_name.py_ /target:winexe /standalone
+ipy.exe pyc.py /out:[application_name] /main:[main_python_file_name.py] /target:winexe /standalone
 ~~~~
 
-> You can ipy.exe in IronPython installation path(ex. C:\Program Files\IronPython 2.7\ in Windows) and pyc.py at [IronPython Path]\Tools\Scripts
+> You can find "ipy.exe" in IronPython installation path(ex. C:\Program Files\IronPython 2.7\ in Windows) and "pyc.py" at [IronPython Path]\Tools\Scripts
 
 
 ## Pyside (QT GUI)
