@@ -30,3 +30,6 @@ ipy.exe pyc.py /out:_application_name_ /main:_main_python_file_name.py_ /target:
 
 > You can ipy.exe in IronPython installation path(ex. C:\Program Files\IronPython 2.7\ in Windows) and pyc.py at [IronPython Path]\Tools\Scripts
 
+
+## Pyside (QT GUI)
+
