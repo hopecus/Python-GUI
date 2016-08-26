@@ -22,7 +22,7 @@ clr.AddReference('IronPython.Wpf')
 
 ~~~~
 
-2) Compile python code with IronPython
+2) Compile python code with IronPython to build stand-alone executable GUI Application
 
 ~~~~
 ipy.exe pyc.py /out:_application_name_ /main:_main_python_file_name.py_ /target:winexe /standalone
