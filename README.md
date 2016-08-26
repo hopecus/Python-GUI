@@ -12,7 +12,7 @@ After installing IronPython, the Visual Stuido IDE supports several new project 
 Windows Presentation Foundation(WPF) application uses XAML files to describe rich user interfaces and 
 Visual Studio includes a drag and drop designer. Python applicaiton with IronPython can interact with .Net code.
 
-1) Add the following code to your main python file.
+1) Add the following code at top of your main python code in IronPython WPF Application project.
 ~~~~{.python}
 
 import clr
