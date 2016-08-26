@@ -1,4 +1,4 @@
-# Python-GUI
+# Making GUI Application with Python
 I would like to build GUI application using many powerful python packages.
 
 ## IronPython with .Net
